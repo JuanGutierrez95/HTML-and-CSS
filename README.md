@@ -1,2 +1,2 @@
 # HTML-and-CSS
-Ejercicio 6 de HTML y CSS
+Ejercicio 6 de HTML y CSS realizado.
